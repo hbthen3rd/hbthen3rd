@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is HB, and I am a:
+My name is **hb**, and I am a:
 - Drinker of coffee ☕
 - Eater of tacos 🌮
 - Chef of burnt food 👨‍🍳
