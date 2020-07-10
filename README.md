@@ -1,6 +1,11 @@
 # Hi there 👋
 
-My name is HB. I am a drinker of coffee ☕, eater of tacos 🌮, chef of burnt food 👨‍🍳, engineer of software 👨‍💻, and most of all, a lifelong learner 👨‍🎓.
+My name is HB, and I am a:
+- Drinker of coffee ☕
+- Eater of tacos 🌮
+- Chef of burnt food 👨‍🍳
+- Engineer of software 👨‍💻
+- And most of all, a lifelong learner 👨‍🎓
 
 <!--
 **hbthen3rd/hbthen3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
