@@ -5,7 +5,7 @@ My name is HB, and I am a:
 - Eater of tacos 🌮
 - Chef of burnt food 👨‍🍳
 - Engineer of software 👨‍💻
-- And most of all, a lifelong learner 👨‍🎓
+- And most of all, learner of lifelong 👨‍🎓
 
 <!--
 **hbthen3rd/hbthen3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
