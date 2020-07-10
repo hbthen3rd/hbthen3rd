@@ -1,11 +1,11 @@
-# Hi there 👋
+# hi there 👋
 
-My name is **hb**, and I am a:
-- Drinker of coffee ☕
-- Eater of tacos 🌮
-- Chef of burnt food 👨‍🍳
-- Engineer of software 👨‍💻
-- And most of all, learner of lifelong 👨‍🎓
+my name is **hb**, and i am a:
+- drinker of coffee ☕
+- eater of tacos 🌮
+- chef of burnt food 👨‍🍳
+- engineer of software 👨‍💻
+- and most of all, learner of lifelong 👨‍🎓
 
 <!--
 **hbthen3rd/hbthen3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
