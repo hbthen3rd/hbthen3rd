@@ -1,3 +1,4 @@
 # hi there 👋
 
-my name is **hb**. i write javascript for a living, but i don't have any public repository on my github profile to show that 🤔
+my name is **hb**.
+i write javascript for a living, but i don't have any public repository on my github profile to show that 🤔
