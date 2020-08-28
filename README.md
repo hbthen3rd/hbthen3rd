@@ -1,8 +1,3 @@
 # hi there 👋
 
-my name is **hb**, and i am a:
-- drinker of coffee ☕
-- eater of tacos 🌮
-- chef of burnt food 👨‍🍳
-- engineer of software 👨‍💻
-- and most of all, learner of lifelong 👨‍🎓
+my name is **hb**. i write javascript for a living, but i don't have any public repository on my github profile to show that 🤔
